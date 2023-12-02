@@ -1,4 +1,4 @@
-import BrittanyChiang from "@/components/BrittanyChiang";
+import Layout from "@/components/Layout";
 import Image from "next/image";
 
 export default function Home() {
@@ -110,6 +110,6 @@ export default function Home() {
     //     </a>
     //   </div>
     // </main>
-    <BrittanyChiang />
+    <Layout />
   );
 }

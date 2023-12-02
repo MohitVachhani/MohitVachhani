@@ -4,7 +4,7 @@ import React, { useEffect, useRef, useState } from "react";
 
 type Props = {};
 
-const BrittanyChiang = (props: Props) => {
+const MohitVachhani = (props: Props) => {
   const [xScroll, setXScroll] = useState(0);
   const [yScroll, setYScroll] = useState(0);
   const [xMouse, setXMouse] = useState(0);
@@ -42,7 +42,7 @@ const BrittanyChiang = (props: Props) => {
 
   return (
     <div>
-      {/* saved from url=(0027)https://brittanychiang.com/ */}
+      {/* saved from url=(0027)https://MohitVachhani.com/ */}
       <meta httpEquiv="Content-Type" content="text/html; charset=UTF-8" />
       <meta name="viewport" content="width=device-width" />
       <title>Mohit Vachhani</title>
@@ -50,7 +50,7 @@ const BrittanyChiang = (props: Props) => {
         name="description"
         content="Mohit Vachhani is a software engineer who builds accessible, inclusive products and digital experiences for the web."
       />
-      <meta name="image" content="https://brittanychiang.com/og.png" />
+      <meta name="image" content="https://MohitVachhani.com/og.png" />
       <meta property="og:locale" content="en_US" />
       <meta property="og:site_name" content="Mohit Vachhani" />
       <meta property="og:type" content="website" />
@@ -62,50 +62,50 @@ const BrittanyChiang = (props: Props) => {
         property="og:description"
         content="Mohit Vachhani is a software engineer who builds accessible, inclusive products and digital experiences for the web."
       />
-      <meta property="og:url" content="https://brittanychiang.com/" />
-      <meta property="og:image" content="https://brittanychiang.com/og.png" />
+      <meta property="og:url" content="https://MohitVachhani.com/" />
+      <meta property="og:image" content="https://MohitVachhani.com/og.png" />
       <meta property="twitter:title" content="Mohit Vachhani" />
       <meta
         property="twitter:description"
         content="Mohit Vachhani is a software engineer who builds accessible, inclusive products and digital experiences for the web."
       />
-      <meta property="twitter:url" content="https://brittanychiang.com/" />
+      <meta property="twitter:url" content="https://MohitVachhani.com/" />
       <meta
         property="twitter:image"
-        content="https://brittanychiang.com/og.png"
+        content="https://MohitVachhani.com/og.png"
       />
       <link
         rel="icon"
         type="image/png"
         sizes="512x192"
-        href="https://brittanychiang.com/favicon/android-chrome-512x512.png"
+        href="https://MohitVachhani.com/favicon/android-chrome-512x512.png"
       />
       <link
         rel="icon"
         type="image/png"
         sizes="192x192"
-        href="https://brittanychiang.com/favicon/android-chrome-192x192.png"
+        href="https://MohitVachhani.com/favicon/android-chrome-192x192.png"
       />
       <link
         rel="apple-touch-icon"
         sizes="180x180"
-        href="https://brittanychiang.com/favicon/apple-touch-icon.png"
+        href="https://MohitVachhani.com/favicon/apple-touch-icon.png"
       />
       <link
         rel="icon"
         type="image/png"
         sizes="32x32"
-        href="https://brittanychiang.com/favicon/favicon-32x32.png"
+        href="https://MohitVachhani.com/favicon/favicon-32x32.png"
       />
       <link
         rel="icon"
         type="image/png"
         sizes="16x16"
-        href="https://brittanychiang.com/favicon/favicon-16x16.png"
+        href="https://MohitVachhani.com/favicon/favicon-16x16.png"
       />
       <link
         rel="manifest"
-        href="https://brittanychiang.com/favicon/site.webmanifest"
+        href="https://MohitVachhani.com/favicon/site.webmanifest"
       />
       <meta name="msapplication-TileColor" content="#0f172a" />
       <meta name="theme-color" content="#0f172a" />
@@ -116,7 +116,7 @@ const BrittanyChiang = (props: Props) => {
       <meta name="next-head-count" content={"29"} />
       <link
         rel="preload"
-        href="https://brittanychiang.com/_next/static/media/730e8169368baf37-s.p.woff2"
+        href="https://MohitVachhani.com/_next/static/media/730e8169368baf37-s.p.woff2"
         as="font"
         type="font/woff2"
         crossOrigin="anonymous"
@@ -124,7 +124,7 @@ const BrittanyChiang = (props: Props) => {
       />
       <link
         rel="preload"
-        href="https://brittanychiang.com/_next/static/media/f1f0c35b32161446-s.p.woff2"
+        href="https://MohitVachhani.com/_next/static/media/f1f0c35b32161446-s.p.woff2"
         as="font"
         type="font/woff2"
         crossOrigin="anonymous"
@@ -132,7 +132,7 @@ const BrittanyChiang = (props: Props) => {
       />
       <link
         rel="preload"
-        href="https://brittanychiang.com/_next/static/media/d593a8df799d4ab1-s.p.woff2"
+        href="https://MohitVachhani.com/_next/static/media/d593a8df799d4ab1-s.p.woff2"
         as="font"
         type="font/woff2"
         crossOrigin="anonymous"
@@ -140,7 +140,7 @@ const BrittanyChiang = (props: Props) => {
       />
       <link
         rel="preload"
-        href="https://brittanychiang.com/_next/static/media/dc792b508e6f91c7-s.p.woff2"
+        href="https://MohitVachhani.com/_next/static/media/dc792b508e6f91c7-s.p.woff2"
         as="font"
         type="font/woff2"
         crossOrigin="anonymous"
@@ -148,7 +148,7 @@ const BrittanyChiang = (props: Props) => {
       />
       <link
         rel="preload"
-        href="https://brittanychiang.com/_next/static/media/84d3493a9fd22f1c-s.p.woff2"
+        href="https://MohitVachhani.com/_next/static/media/84d3493a9fd22f1c-s.p.woff2"
         as="font"
         type="font/woff2"
         crossOrigin="anonymous"
@@ -156,7 +156,7 @@ const BrittanyChiang = (props: Props) => {
       />
       <link
         rel="preload"
-        href="https://brittanychiang.com/_next/static/media/fcb100c7607696fd-s.p.woff2"
+        href="https://MohitVachhani.com/_next/static/media/fcb100c7607696fd-s.p.woff2"
         as="font"
         type="font/woff2"
         crossOrigin="anonymous"
@@ -164,7 +164,7 @@ const BrittanyChiang = (props: Props) => {
       />
       <link
         rel="preload"
-        href="https://brittanychiang.com/_next/static/media/d90f295d0c348006-s.p.woff2"
+        href="https://MohitVachhani.com/_next/static/media/d90f295d0c348006-s.p.woff2"
         as="font"
         type="font/woff2"
         crossOrigin="anonymous"
@@ -172,7 +172,7 @@ const BrittanyChiang = (props: Props) => {
       />
       <link
         rel="preload"
-        href="https://brittanychiang.com/_next/static/media/579e0f95cacfae57-s.p.woff2"
+        href="https://MohitVachhani.com/_next/static/media/579e0f95cacfae57-s.p.woff2"
         as="font"
         type="font/woff2"
         crossOrigin="anonymous"
@@ -180,7 +180,7 @@ const BrittanyChiang = (props: Props) => {
       />
       <link
         rel="preload"
-        href="https://brittanychiang.com/_next/static/media/828a494e04a45cbd-s.p.woff2"
+        href="https://MohitVachhani.com/_next/static/media/828a494e04a45cbd-s.p.woff2"
         as="font"
         type="font/woff2"
         crossOrigin="anonymous"
@@ -224,7 +224,7 @@ const BrittanyChiang = (props: Props) => {
 
           <div className="mx-auto min-h-screen max-w-screen-xl px-6 py-12 font-sans md:px-12 md:py-20 lg:px-24 lg:py-0">
             <a
-              href="https://brittanychiang.com/#content"
+              href="https://MohitVachhani.com/#content"
               className="absolute left-0 top-0 block -translate-x-full rounded bg-gradient-to-br from-teal-400 via-blue-500 to-purple-600 px-4 py-3 text-sm font-bold uppercase tracking-widest text-white focus-visible:translate-x-0"
             >
               Skip to Content
@@ -233,7 +233,7 @@ const BrittanyChiang = (props: Props) => {
               <header className="lg:sticky lg:top-0 lg:flex lg:max-h-screen lg:w-1/2 lg:flex-col lg:justify-between lg:py-24">
                 <div>
                   <h1 className="text-4xl font-bold tracking-tight text-slate-200 sm:text-5xl">
-                    <a href="https://brittanychiang.com/">Mohit Vachhani</a>
+                    <a href="https://MohitVachhani.com/">Mohit Vachhani</a>
                   </h1>
                   <h2 className="mt-3 text-lg font-medium tracking-tight text-slate-200 sm:text-xl">
                     Experienced Product Engineer
@@ -250,7 +250,7 @@ const BrittanyChiang = (props: Props) => {
                       <li>
                         <a
                           className="group flex items-center py-3 active"
-                          href="https://brittanychiang.com/#about"
+                          href="https://MohitVachhani.com/#about"
                         >
                           <span className="nav-indicator mr-4 h-px w-8 bg-slate-600 transition-all group-hover:w-16 group-hover:bg-slate-200 group-focus-visible:w-16 group-focus-visible:bg-slate-200 motion-reduce:transition-none" />
                           <span className="nav-text text-xs font-bold uppercase tracking-widest text-slate-500 group-hover:text-slate-200 group-focus-visible:text-slate-200">
@@ -261,7 +261,7 @@ const BrittanyChiang = (props: Props) => {
                       <li>
                         <a
                           className="group flex items-center py-3"
-                          href="https://brittanychiang.com/#experience"
+                          href="https://MohitVachhani.com/#experience"
                         >
                           <span className="nav-indicator mr-4 h-px w-8 bg-slate-600 transition-all group-hover:w-16 group-hover:bg-slate-200 group-focus-visible:w-16 group-focus-visible:bg-slate-200 motion-reduce:transition-none" />
                           <span className="nav-text text-xs font-bold uppercase tracking-widest text-slate-500 group-hover:text-slate-200 group-focus-visible:text-slate-200">
@@ -272,7 +272,7 @@ const BrittanyChiang = (props: Props) => {
                       <li>
                         <a
                           className="group flex items-center py-3"
-                          href="https://brittanychiang.com/#projects"
+                          href="https://MohitVachhani.com/#projects"
                         >
                           <span className="nav-indicator mr-4 h-px w-8 bg-slate-600 transition-all group-hover:w-16 group-hover:bg-slate-200 group-focus-visible:w-16 group-focus-visible:bg-slate-200 motion-reduce:transition-none" />
                           <span className="nav-text text-xs font-bold uppercase tracking-widest text-slate-500 group-hover:text-slate-200 group-focus-visible:text-slate-200">
@@ -1065,7 +1065,7 @@ const BrittanyChiang = (props: Props) => {
                       <a
                         className="inline-flex items-center font-medium leading-tight text-slate-200 font-semibold text-slate-200 group"
                         aria-label="View Full Résumé"
-                        href="https://brittanychiang.com/resume.pdf"
+                        href="https://MohitVachhani.com/resume.pdf"
                       >
                         <span>
                           <span className="border-b border-transparent pb-px transition group-hover:border-teal-300 motion-reduce:transition-none">
@@ -1305,7 +1305,7 @@ const BrittanyChiang = (props: Props) => {
                             </p>
                             <a
                               className="relative mt-2 inline-flex items-center text-sm font-medium text-slate-300 hover:text-teal-300 focus-visible:text-teal-300"
-                              href="https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode"
+                              href="https://marketplace.visualstudio.com/items?itemName=MohitVachhani.halcyon-vscode"
                               target="_blank"
                               rel="noreferrer"
                               aria-label="Over 100,000 installs on Visual Studio Code Marketplace"
@@ -1344,14 +1344,14 @@ const BrittanyChiang = (props: Props) => {
                             <h3>
                               <a
                                 className="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300  group/link text-base"
-                                href="https://v4.brittanychiang.com/"
+                                href="https://v4.MohitVachhani.com/"
                                 target="_blank"
                                 rel="noreferrer"
-                                aria-label="brittanychiang.com (v4)"
+                                aria-label="MohitVachhani.com (v4)"
                               >
                                 <span className="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block" />
                                 <span>
-                                  brittanychiang.com{/* */}{" "}
+                                  MohitVachhani.com{/* */}{" "}
                                   <span className="inline-block">
                                     (v4)
                                     <svg
@@ -1437,7 +1437,7 @@ const BrittanyChiang = (props: Props) => {
                       <a
                         className="inline-flex items-center font-medium leading-tight text-slate-200 font-semibold text-slate-200 group"
                         aria-label="View Full Project Archive"
-                        href="https://brittanychiang.com/archive"
+                        href="https://MohitVachhani.com/archive"
                       >
                         <span>
                           <span className="border-b border-transparent pb-px transition group-hover:border-teal-300 motion-reduce:transition-none">
@@ -1701,4 +1701,4 @@ const BrittanyChiang = (props: Props) => {
   );
 };
 
-export default BrittanyChiang;
+export default MohitVachhani;
