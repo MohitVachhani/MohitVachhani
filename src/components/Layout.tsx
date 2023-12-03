@@ -1,6 +1,5 @@
 "use client";
-import Image from "next/image";
-import React, { useEffect, useRef, useState } from "react";
+import React, { useRef, useState } from "react";
 
 type Props = {};
 
@@ -236,7 +235,7 @@ const MohitVachhani = (props: Props) => {
                     <a href="https://MohitVachhani.com/">Mohit Vachhani</a>
                   </h1>
                   <h2 className="mt-3 text-lg font-medium tracking-tight text-slate-200 sm:text-xl">
-                    Experienced Product Engineer
+                    Product Engineer
                   </h2>
                   <p className="mt-4 max-w-xs leading-normal text-slate-400">
                     I craft scalable, optimized and future-forward solutions
