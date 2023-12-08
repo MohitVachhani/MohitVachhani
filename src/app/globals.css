@@ -2114,3 +2114,7 @@ video {
 .__variable_20b187 {
   --font-inter: "__inter_20b187", "__inter_Fallback_20b187";
 }
+
+.primary-bg {
+  background-color: #0f1f44;
+}

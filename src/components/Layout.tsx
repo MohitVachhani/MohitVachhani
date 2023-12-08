@@ -41,7 +41,6 @@ const MohitVachhani = (props: Props) => {
 
   return (
     <div>
-      {/* saved from url=(0027)https://MohitVachhani.com/ */}
       <meta httpEquiv="Content-Type" content="text/html; charset=UTF-8" />
       <meta name="viewport" content="width=device-width" />
       <title>Mohit Vachhani</title>
@@ -49,7 +48,7 @@ const MohitVachhani = (props: Props) => {
         name="description"
         content="Mohit Vachhani is a software engineer who builds accessible, inclusive products and digital experiences for the web."
       />
-      <meta name="image" content="https://MohitVachhani.com/og.png" />
+      <meta name="image" content="https://MohitVachhani.github.io/og.png" />
       <meta property="og:locale" content="en_US" />
       <meta property="og:site_name" content="Mohit Vachhani" />
       <meta property="og:type" content="website" />
@@ -61,17 +60,20 @@ const MohitVachhani = (props: Props) => {
         property="og:description"
         content="Mohit Vachhani is a software engineer who builds accessible, inclusive products and digital experiences for the web."
       />
-      <meta property="og:url" content="https://MohitVachhani.com/" />
-      <meta property="og:image" content="https://MohitVachhani.com/og.png" />
+      <meta property="og:url" content="https://MohitVachhani.github.io/" />
+      <meta
+        property="og:image"
+        content="https://MohitVachhani.github.io/og.png"
+      />
       <meta property="twitter:title" content="Mohit Vachhani" />
       <meta
         property="twitter:description"
         content="Mohit Vachhani is a software engineer who builds accessible, inclusive products and digital experiences for the web."
       />
-      <meta property="twitter:url" content="https://MohitVachhani.com/" />
+      <meta property="twitter:url" content="https://MohitVachhani.github.io/" />
       <meta
         property="twitter:image"
-        content="https://MohitVachhani.com/og.png"
+        content="https://MohitVachhani.github.io/og.png"
       />
 
       <meta name="msapplication-TileColor" content="#0f172a" />
@@ -83,7 +85,7 @@ const MohitVachhani = (props: Props) => {
       <meta name="next-head-count" content={"29"} />
       <link
         rel="preload"
-        href="https://MohitVachhani.com/_next/static/media/730e8169368baf37-s.p.woff2"
+        href="https://MohitVachhani.github.io/_next/static/media/730e8169368baf37-s.p.woff2"
         as="font"
         type="font/woff2"
         crossOrigin="anonymous"
@@ -91,7 +93,7 @@ const MohitVachhani = (props: Props) => {
       />
       <link
         rel="preload"
-        href="https://MohitVachhani.com/_next/static/media/f1f0c35b32161446-s.p.woff2"
+        href="https://MohitVachhani.github.io/_next/static/media/f1f0c35b32161446-s.p.woff2"
         as="font"
         type="font/woff2"
         crossOrigin="anonymous"
@@ -99,7 +101,7 @@ const MohitVachhani = (props: Props) => {
       />
       <link
         rel="preload"
-        href="https://MohitVachhani.com/_next/static/media/d593a8df799d4ab1-s.p.woff2"
+        href="https://MohitVachhani.github.io/_next/static/media/d593a8df799d4ab1-s.p.woff2"
         as="font"
         type="font/woff2"
         crossOrigin="anonymous"
@@ -107,7 +109,7 @@ const MohitVachhani = (props: Props) => {
       />
       <link
         rel="preload"
-        href="https://MohitVachhani.com/_next/static/media/dc792b508e6f91c7-s.p.woff2"
+        href="https://MohitVachhani.github.io/_next/static/media/dc792b508e6f91c7-s.p.woff2"
         as="font"
         type="font/woff2"
         crossOrigin="anonymous"
@@ -115,7 +117,7 @@ const MohitVachhani = (props: Props) => {
       />
       <link
         rel="preload"
-        href="https://MohitVachhani.com/_next/static/media/84d3493a9fd22f1c-s.p.woff2"
+        href="https://MohitVachhani.github.io/_next/static/media/84d3493a9fd22f1c-s.p.woff2"
         as="font"
         type="font/woff2"
         crossOrigin="anonymous"
@@ -123,7 +125,7 @@ const MohitVachhani = (props: Props) => {
       />
       <link
         rel="preload"
-        href="https://MohitVachhani.com/_next/static/media/fcb100c7607696fd-s.p.woff2"
+        href="https://MohitVachhani.github.io/_next/static/media/fcb100c7607696fd-s.p.woff2"
         as="font"
         type="font/woff2"
         crossOrigin="anonymous"
@@ -131,7 +133,7 @@ const MohitVachhani = (props: Props) => {
       />
       <link
         rel="preload"
-        href="https://MohitVachhani.com/_next/static/media/d90f295d0c348006-s.p.woff2"
+        href="https://MohitVachhani.github.io/_next/static/media/d90f295d0c348006-s.p.woff2"
         as="font"
         type="font/woff2"
         crossOrigin="anonymous"
@@ -139,7 +141,7 @@ const MohitVachhani = (props: Props) => {
       />
       <link
         rel="preload"
-        href="https://MohitVachhani.com/_next/static/media/579e0f95cacfae57-s.p.woff2"
+        href="https://MohitVachhani.github.io/_next/static/media/579e0f95cacfae57-s.p.woff2"
         as="font"
         type="font/woff2"
         crossOrigin="anonymous"
@@ -147,7 +149,7 @@ const MohitVachhani = (props: Props) => {
       />
       <link
         rel="preload"
-        href="https://MohitVachhani.com/_next/static/media/828a494e04a45cbd-s.p.woff2"
+        href="https://MohitVachhani.github.io/_next/static/media/828a494e04a45cbd-s.p.woff2"
         as="font"
         type="font/woff2"
         crossOrigin="anonymous"
@@ -191,7 +193,7 @@ const MohitVachhani = (props: Props) => {
 
           <div className="mx-auto min-h-screen max-w-screen-xl px-6 py-12 font-sans md:px-12 md:py-20 lg:px-24 lg:py-0">
             <a
-              href="https://MohitVachhani.com/#content"
+              href="https://MohitVachhani.github.io/#content"
               className="absolute left-0 top-0 block -translate-x-full rounded bg-gradient-to-br from-teal-400 via-blue-500 to-purple-600 px-4 py-3 text-sm font-bold uppercase tracking-widest text-white focus-visible:translate-x-0"
             >
               Skip to Content
@@ -200,7 +202,9 @@ const MohitVachhani = (props: Props) => {
               <header className="lg:sticky lg:top-0 lg:flex lg:max-h-screen lg:w-1/2 lg:flex-col lg:justify-between lg:py-24">
                 <div>
                   <h1 className="text-4xl font-bold tracking-tight text-slate-200 sm:text-5xl">
-                    <a href="https://MohitVachhani.com/">Mohit Vachhani</a>
+                    <a href="https://MohitVachhani.github.io/">
+                      Mohit Vachhani
+                    </a>
                   </h1>
                   <h2 className="mt-3 text-lg font-medium tracking-tight text-slate-200 sm:text-xl">
                     Product Engineer
@@ -340,20 +344,18 @@ const MohitVachhani = (props: Props) => {
                       Clean, modular, and user-friendly – that&apos;s the mantra
                       I swear by.
                     </p>
-                    <p>
-                      Ahmedabad is not just where I work; it&apos;s my tech
-                      playground. I&apos;m deeply rooted in the local scene, but
-                      my gaze is set globally. Staying on top of the latest tech
-                      trends is my thing – it&apos;s the secret sauce to making
-                      sure the solutions I architect are not just up-to-date but
-                      ready for whatever the future throws at them.
+                    <p className="mb-4">
+                      Staying on top of the latest tech trends is my thing –
+                      it&apos;s the secret sauce to making sure the solutions I
+                      architect are not just up-to-date but ready for whatever
+                      the future throws at them.
                     </p>
-                    <p>
-                      So, if you&apos;re on the lookout for a Software Architect
-                      who doesn&apos;t just speak code but also understands the
-                      language of innovation and efficiency, let&apos;s chat.
-                      I&apos;m all about turning your tech dreams into a
-                      reality!
+                    <p className="mb-4">
+                      So, if you&apos;re on the lookout for a software geek for
+                      tech solutions reach out to me. Or if you need to chat
+                      about gaming strats or football plays, I&apos;m your NPC!
+                      I&apos;m all about that high-score life, so hit me up
+                      anytime.
                     </p>
                   </div>
                 </section>
@@ -369,6 +371,7 @@ const MohitVachhani = (props: Props) => {
                   </div>
                   <div>
                     <ol className="group/list">
+                      {/* Lyearn */}
                       <li className="mb-12">
                         <div className="group relative grid pb-1 transition-all sm:grid-cols-8 sm:gap-8 md:gap-4 lg:hover:!opacity-100 lg:group-hover/list:opacity-50">
                           <div className="absolute -inset-x-4 -inset-y-4 z-0 hidden rounded-md transition motion-reduce:transition-none lg:-inset-x-6 lg:block lg:group-hover:bg-slate-800/50 lg:group-hover:shadow-[inset_0_1px_0_0_rgba(148,163,184,0.1)] lg:group-hover:drop-shadow-lg" />
@@ -411,24 +414,178 @@ const MohitVachhani = (props: Props) => {
                                 </a>
                               </div>
                             </h3>
-                            <p className="mt-2 text-sm leading-normal text-slate-400">
-                              Team Leadership for Feature Delivery: Spearheaded
-                              a team of developers, ensuring the consistent
-                              delivery of features while upholding code
-                              standards and maintaining high backend API
-                              performance. Microservice Architecture
-                              Enhancement: Led a team of developers in
-                              implementing pivotal changes within our
-                              microservice architecture. The goal was to
-                              optimize API response times, specifically
-                              targeting P90s to achieve sub-500ms performance.
-                              Dual Role: Team Leadership and Architecture
-                              Design: Acted as both a team leader and a key
-                              contributor to architectural design decisions.
-                              This multifaceted role involved guiding the team
-                              and actively participating in shaping the future
-                              architecture of the project.
-                            </p>
+
+                            <div className="flex items-center justify-center mt-2 mb-4 pl-2">
+                              <div className="space-y-6 border-l-2 border-solid">
+                                <div className="relative w-full">
+                                  <svg
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    viewBox="0 0 24 24"
+                                    fill="currentColor"
+                                    className="absolute -top-0.5 z-10 -ml-3.5 h-7 w-7 rounded-full text-blue-500 primary-bg"
+                                  >
+                                    <path
+                                      fill-rule="evenodd"
+                                      d="M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12zm13.36-1.814a.75.75 0 10-1.22-.872l-3.236 4.53L9.53 12.22a.75.75 0 00-1.06 1.06l2.25 2.25a.75.75 0 001.14-.094l3.75-5.25z"
+                                      clip-rule="evenodd"
+                                    />
+                                  </svg>
+                                  <div className="ml-6">
+                                    <h4 className="font-bold text-blue-500">
+                                      Product Engineer - 1 [Backend]
+                                    </h4>
+                                    <p className="mt-2 max-w-screen-sm text-sm text-gray-500">
+                                      <b className="font-bold text-slate-200">
+                                        Micro-Services to Serverless Transition
+                                      </b>
+                                      : Restructured backend architecture from
+                                      micro-services to serverless, utilizing
+                                      AWS Lambda functions and integrating with
+                                      DynamoDB, Kinesis, and SNS. <br></br>
+                                      <b>Database Migration and Optimization</b>
+                                      : Successfully migrated data from MongoDB
+                                      to DynamoDB, optimizing schema and indexes
+                                      for improved query performance, enhancing
+                                      backend API runtime efficiency. <br></br>
+                                      <b className="font-bold text-slate-200">
+                                        Real-time Data Streaming to Redshift
+                                      </b>
+                                      : Implemented a robust architecture for
+                                      real-time data streaming from DynamoDB to
+                                      Amazon Redshift. This enables the
+                                      generation of user activity reports
+                                      visualized on PowerBi dashboards,
+                                      providing timely insights into user
+                                      behavior. <br></br>
+                                      <b className="font-bold text-slate-200">
+                                        Reusable Codebase with NPM Packages
+                                      </b>
+                                      : Developed and integrated NPM packages to
+                                      enable code sharing across Lambda
+                                      functions, streamlining development and
+                                      maintenance with a standardized and
+                                      reusable codebase <br></br>
+                                    </p>
+                                    <span className="mt-1 block text-sm font-semibold text-blue-500">
+                                      2018
+                                    </span>
+                                  </div>
+                                </div>
+                                <div className="relative w-full">
+                                  <svg
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    viewBox="0 0 24 24"
+                                    fill="currentColor"
+                                    className="absolute -top-0.5 z-10 -ml-3.5 h-7 w-7 rounded-full text-blue-500 primary-bg"
+                                  >
+                                    <path
+                                      fill-rule="evenodd"
+                                      d="M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12zm13.36-1.814a.75.75 0 10-1.22-.872l-3.236 4.53L9.53 12.22a.75.75 0 00-1.06 1.06l2.25 2.25a.75.75 0 001.14-.094l3.75-5.25z"
+                                      clip-rule="evenodd"
+                                    />
+                                  </svg>
+                                  <div className="ml-6">
+                                    <h4 className="font-bold text-blue-500">
+                                      Product Engineer - 2 [Backend]
+                                    </h4>
+                                    <p className="mt-2 max-w-screen-sm text-sm text-gray-500">
+                                      <b className="font-bold text-slate-200">
+                                        Flexible Application Model for Educators
+                                        and Tutors
+                                      </b>
+                                      : Developed an application model catering
+                                      to educators from schools, tutors, and
+                                      industries. This model allows them to
+                                      effortlessly create and deliver content to
+                                      a wide user base, accommodating diverse
+                                      teaching needs.<br></br>
+                                      <b className="font-bold text-slate-200">
+                                        Efficient Micro-Service Architecture
+                                      </b>
+                                      : Designed and implemented a micro-service
+                                      architecture that simplifies content
+                                      creation for educators and tutors. This
+                                      architecture ensures a seamless, real-time
+                                      experience by incorporating Conflict-Free
+                                      Replicated Data Types (CRDT) algorithms.
+                                      <br></br>
+                                      <b className="font-bold text-slate-200">
+                                        Streamlined User Onboarding
+                                      </b>
+                                      : Created services to automate the user
+                                      onboarding process on the website. This
+                                      enhancement significantly improves the
+                                      experience for educators and tutors,
+                                      making it more efficient and
+                                      user-friendly.<br></br>
+                                      <b className="font-bold text-slate-200">
+                                        User Action and Performance Tracking
+                                      </b>
+                                      : Devised a comprehensive system for
+                                      monitoring user actions and performance
+                                      across various types of consumable
+                                      content. This tracking system provides
+                                      valuable insights into user engagement and
+                                      interactions.<br></br>
+                                    </p>
+                                    <span className="mt-1 block text-sm font-semibold text-blue-500">
+                                      2020
+                                    </span>
+                                  </div>
+                                </div>
+                                <div className="relative w-full">
+                                  <svg
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    viewBox="0 0 24 24"
+                                    fill="currentColor"
+                                    className="absolute -top-0.5 z-10 -ml-3.5 h-7 w-7 rounded-full text-blue-500 primary-bg"
+                                  >
+                                    <path
+                                      fill-rule="evenodd"
+                                      d="M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12zm13.36-1.814a.75.75 0 10-1.22-.872l-3.236 4.53L9.53 12.22a.75.75 0 00-1.06 1.06l2.25 2.25a.75.75 0 001.14-.094l3.75-5.25z"
+                                      clip-rule="evenodd"
+                                    />
+                                  </svg>
+                                  <div className="ml-6">
+                                    <h4 className="font-bold text-blue-500">
+                                      Product Engineer - 3 [Backend]
+                                    </h4>
+                                    <p className="mt-2 max-w-screen-sm text-sm text-gray-500">
+                                      <b className="font-bold text-slate-200">
+                                        Team Leadership for Feature Delivery
+                                      </b>
+                                      : Spearheaded a team of developers,
+                                      ensuring the consistent delivery of
+                                      features while upholding code standards
+                                      and maintaining high backend API
+                                      performance.<br></br>
+                                      <b className="font-bold text-slate-200">
+                                        Microservice Architecture Enhancement
+                                      </b>
+                                      : Led a team of developers in implementing
+                                      pivotal changes within our microservice
+                                      architecture. The goal was to optimize API
+                                      response times, specifically targeting
+                                      P90s to achieve sub-500ms performance.
+                                      <br></br>
+                                      <b className="font-bold text-slate-200">
+                                        Team Leadership and Architecture Design
+                                      </b>
+                                      : Acted as both a team leader and a key
+                                      contributor to architectural design
+                                      decisions. This multifaceted role involved
+                                      guiding the team and actively
+                                      participating in shaping the future
+                                      architecture of the project.<br></br>
+                                    </p>
+                                    <span className="mt-1 block text-sm font-semibold text-blue-500">
+                                      2022
+                                    </span>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+
                             <ul
                               className="mt-2 flex flex-wrap"
                               aria-label="Technologies used"
@@ -462,13 +619,58 @@ const MohitVachhani = (props: Props) => {
                           </div>
                         </div>
                       </li>
+
+                      {/* Amazon */}
+                      <li className="mb-12">
+                        <div className="group relative grid pb-1 transition-all sm:grid-cols-8 sm:gap-8 md:gap-4 lg:hover:!opacity-100 lg:group-hover/list:opacity-50">
+                          <div className="absolute -inset-x-4 -inset-y-4 z-0 hidden rounded-md transition motion-reduce:transition-none lg:-inset-x-6 lg:block lg:group-hover:bg-slate-800/50 lg:group-hover:shadow-[inset_0_1px_0_0_rgba(148,163,184,0.1)] lg:group-hover:drop-shadow-lg" />
+                          <header
+                            className="z-10 mb-2 mt-1 text-xs font-semibold uppercase tracking-wide text-slate-500 sm:col-span-2"
+                            aria-label="2018 to Present"
+                          >
+                            Feb 2018 - Jul 2018
+                          </header>
+                          <div className="z-10 sm:col-span-6">
+                            <h3 className="font-medium leading-snug text-slate-200">
+                              <div>
+                                <a
+                                  className="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300  group/link text-base"
+                                  rel="noreferrer"
+                                  aria-label="SDET Intern - Amazon"
+                                >
+                                  <span className="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block" />
+                                  <span>
+                                    SDET Intern - {/* */}{" "}
+                                    <span className="inline-block">
+                                      Amazon
+                                      <svg
+                                        xmlns="http://www.w3.org/2000/svg"
+                                        viewBox="0 0 20 20"
+                                        fill="currentColor"
+                                        className="inline-block h-4 w-4 shrink-0 transition-transform group-hover/link:-translate-y-1 group-hover/link:translate-x-1 group-focus-visible/link:-translate-y-1 group-focus-visible/link:translate-x-1 motion-reduce:transition-none ml-1 translate-y-px"
+                                        aria-hidden="true"
+                                      >
+                                        <path
+                                          fillRule="evenodd"
+                                          d="M5.22 14.78a.75.75 0 001.06 0l7.22-7.22v5.69a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75h-7.5a.75.75 0 000 1.5h5.69l-7.22 7.22a.75.75 0 000 1.06z"
+                                          clipRule="evenodd"
+                                        />
+                                      </svg>
+                                    </span>
+                                  </span>
+                                </a>
+                              </div>
+                            </h3>
+                          </div>
+                        </div>
+                      </li>
                     </ol>
 
                     <div className="mt-12">
                       <a
                         className="inline-flex items-center font-medium leading-tight text-slate-200 font-semibold text-slate-200 group"
                         aria-label="View Full Résumé"
-                        href="https://MohitVachhani.com/resume.pdf"
+                        href="https://MohitVachhani.github.io/resume.pdf"
                       >
                         <span>
                           <span className="border-b border-transparent pb-px transition group-hover:border-teal-300 motion-reduce:transition-none">
